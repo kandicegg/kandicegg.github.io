@@ -1,2 +1,2 @@
 # kandicegg.github.io
-personal site built in html and css
+personal site built with html and css
